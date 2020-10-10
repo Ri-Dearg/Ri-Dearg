@@ -9,7 +9,7 @@ Right now I'm studying to improve my current proficiencies, learn a language for
 
 You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check out my favourite hobby, photography, on [![Instagram][2.1]][2]
 
-## Technologies & Tools
+## Technologies & Tools 💽
 ![](https://img.shields.io/badge/Code-Python-8f7891?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-8f7891?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-JQuery-8f7891?style=flat&logo=jquery&logoColor=white)
@@ -20,23 +20,21 @@ You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check o
 ![](https://img.shields.io/badge/Tools-PostgreSQL-8f7891?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MongoDB-8f7891?style=flat&logo=mongodb&logoColor=white)
 
-## Current Projects
-### Chi Sono Io
+## Current Projects ✅ 
+### Chi Sono Io 👨🏽‍🦱
 <a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
 A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely. Hopefully it will resume next year.
   
-## Portfolio Sites
-### Full-Stack Showcase - Neverlost Thrift
+## Portfolio Sites 🖼️ 
+### Full-Stack Showcase - Neverlost Thrift 👘
 <a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"><a/>
-An e-commerce site built with Django and PostgreSQL, featuring search, tags, ajax forms, likes, infinite scroll, sorting stock by data, user accounts, automated emails, and a fully functional payment system using Stripe. It was inspired by thrift stores and charity shops and the design followed suit. Check out the README.md for detailed info.
+An e-commerce site built with Django and PostgreSQL, featuring search, tags, ajax forms, likes, infinite scroll, sorting stock by data, user accounts, automated emails, and a fully functional payment system using Stripe. This is by fair my most complex site. It was inspired by thrift stores and charity shops and the design followed suit, focusing on unique items and fun while browsing. Check out the README.md for detailed info.
   
-
-### Database Focused Showcase - Corona Tales
+### Database Focused Showcase - Corona Tales 📓
 <a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"><a/>
 A text-based social network built with Flask and MongoDB, featuring a cusomtised text editor, Materialize CSS, a complex search system, tags, ajax forms, likes, infinite scroll, user accounts with complex options, and automated emails. The idea came from the wide variety of unique emotions and experiences people underwent during the pandemic. As always, take a look at the README.md for more info.
   
-
-### Frontend Focused Showcase - Horizon Photo
+### Frontend Focused Showcase - Horizon Photo 📷
 <a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"><a/>
 A portfolio for a travel blogger built with Bootstrap 4 and Javascript, featuring animations, Google Maps API, REST Countries API, API failure fallback, EmailJS, responsive gallery, progressive image loading and interaction between the current page and an iframe. Imagined as a site with a minimal aesthetic to showcase a phtographer's work. Clciking on a marker swaps the iframe for new photos. Again, take a look at the README.md for more info.
 
