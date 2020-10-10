@@ -28,6 +28,10 @@ A draft gallery website for a photography project of mine which has been awarded
   &nbsp;
   
   
+  
+  
+  
+  
 ## Portfolio Sites
 ### Full-Stack Showcase - Neverlost Thrift
 <a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"><a/>
