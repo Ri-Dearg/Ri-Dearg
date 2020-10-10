@@ -9,7 +9,6 @@ Right now I'm studying to improve my current proficiencies, learn a language for
 
 You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check out my favourite hobby, photography, on [![Instagram][2.1]][2]
 
-
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-8f7891?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-8f7891?style=flat&logo=javascript&logoColor=white)
@@ -24,13 +23,7 @@ You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check o
 ## Current Projects
 ### Chi Sono Io
 <a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
-A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants, not as "migrants" but as people like all of us through stories which recall common human emotions and themes like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely.
-  &nbsp;
-  
-  
-  
-  
-  
+A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely. Hopefully it will resume next year.
   
 ## Portfolio Sites
 ### Full-Stack Showcase - Neverlost Thrift
