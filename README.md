@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check o
 
 ## Current Projects ✅
 ### Nuragic Shamanic Healing 👨🏽‍🦱
-<a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
+<a href="https://github.com/Ri-Dearg/chi-sono-io"><a/>
 A live e-commerce website for a holistic business, built with Django and PostgreSQL, favourites, user accounts, automated emails, cookie selection, social network tracking, policies, and a fully functional payment system using Stripe. It features pages for information about the business and a shop in a different section.
   
 ### Chi Sono Io 👨🏽‍🦱
