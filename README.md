@@ -20,7 +20,11 @@ You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check o
 ![](https://img.shields.io/badge/Tools-PostgreSQL-8f7891?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MongoDB-8f7891?style=flat&logo=mongodb&logoColor=white)
 
-## Current Projects ✅ 
+## Current Projects ✅
+### Nuragic Shamanic Healing 👨🏽‍🦱
+<a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
+A live e-commerce website for a holistic business, built with Django and PostgreSQL, favourites, user accounts, automated emails, cookie selection, social network tracking, policies, and a fully functional payment system using Stripe. It features pages for information about the business and a shop in a different section.
+  
 ### Chi Sono Io 👨🏽‍🦱
 <a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
 A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely. Hopefully it will resume next year.
