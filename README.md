@@ -42,7 +42,11 @@ fine-tuned transformer classifier, with statistical comparison between outlets a
 Streamlit dashboard on top. Check out the README.md for detailed info.
 
 ### Data Pipeline Showcase - Barna Pollute Data 🌫️
-<a href="https://github.com/Ri-Dearg/barna-pollute-data"><img align="right" width="380" src="PLACEHOLDER-barna.png" alt="Data Pipeline Showcase"></a>
+<a href="https://github.com/Ri-Dearg/barna-pollute-data"><img align="right" width="380" src="https://github.com/user-attachments/assets/7981855f-7c14-459e-aacb-e88fb3213de1" alt="Data Pipeline Showcase"></a>
+Measuring how Barcelona's air quality has improved as the city's policies came in: average
+NO₂ fell by more than a third between 2019 and 2024. A pandas pipeline rebuilds two
+incompatible open data formats into one daily dataset, with a Tableau Public dashboard on
+top. Check out the README.md for detailed info.
 
 ### Live Client Site - Nuragic Shamanic Healing 🪘
 <a href="https://www.nuragicshamanichealing.com/">Nuragic Shamanic Healing</a>
