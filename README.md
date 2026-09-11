@@ -35,18 +35,19 @@ You can find me on [LinkedIn][1] for my work history.
 
 ## Projects ✅
 ### Machine Learning Showcase - Éire AI Analysis 📰
-<a href="https://github.com/Ri-Dearg/eire-ai-analysis"><img align="left" width="380" src="PLACEHOLDER-dashboard.png" alt="Machine Learning Showcase"></a>
+<a href="https://github.com/Ri-Dearg/eire-ai-analysis"><img align="left" src="PLACEHOLDER-dashboard.png" alt="Machine Learning Showcase"></a>
 Measuring how much AI-generated content appears across four Irish news outlets, using a
 corpus I built myself. Crawling, scraping, canonicalisation and deduplication feed a
 fine-tuned transformer classifier, with statistical comparison between outlets and a
 Streamlit dashboard on top. Check out the README.md for detailed info.
 
 ### Data Pipeline Showcase - Barna Pollute Data 🌫️
-<a href="https://github.com/Ri-Dearg/barna-pollute-data"><img align="right" width="380" src="https://github.com/user-attachments/assets/7981855f-7c14-459e-aacb-e88fb3213de1" alt="Data Pipeline Showcase"></a>
+<a href="https://github.com/Ri-Dearg/barna-pollute-data"><img align="right" width="205" src="https://github.com/user-attachments/assets/7981855f-7c14-459e-aacb-e88fb3213de1" alt="Data Pipeline Showcase"></a>
 Measuring how Barcelona's air quality has improved as the city's policies came in: average
 NO₂ fell by more than a third between 2019 and 2024. A pandas pipeline rebuilds two
 incompatible open data formats into one daily dataset, with a Tableau Public dashboard on
 top. Check out the README.md for detailed info.
+<br clear="all">
 
 ### Live Client Site - Nuragic Shamanic Healing 🪘
 <a href="https://www.nuragicshamanichealing.com/">Nuragic Shamanic Healing</a>
@@ -57,20 +58,21 @@ functional payment system using Stripe. (No longer maintained by me.)
 
 ## Earlier Work 🖼️
 ### Full-Stack Showcase - Neverlost Thrift 👘
-<a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"></a>
+<a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"></a>
 An e-commerce site built with Django and PostgreSQL, featuring search, tags, ajax forms,
 likes, infinite scroll, sorting stock by date, user accounts, automated emails, and a
 fully functional payment system using Stripe. This is by far my most complex site from
 that period. Inspired by thrift stores and charity shops, with the design following suit.
-
+<br clear="all">
 ### Database Focused Showcase - Corona Tales 📓
-<a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"></a>
+<a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"></a>
 A text-based social network built with Flask and MongoDB, featuring a customised text
 editor, Materialize CSS, a complex search system, tags, ajax forms, likes, infinite
 scroll, user accounts with complex options, and automated emails.
+<br clear="all">
 
 ### Frontend Focused Showcase - Horizon Photo 📷
-<a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"></a>
+<a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"></a>
 A portfolio for a travel blogger built with Bootstrap 4 and Javascript, featuring
 animations, Google Maps API, REST Countries API, API failure fallback, EmailJS,
 responsive gallery, progressive image loading, and interaction between the page and an
