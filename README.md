@@ -3,48 +3,74 @@
 </div>
 
 # Welcome!
-My name is Rory Patrick Sheridan and I'm a newly certified Full-Stack Software Developer. I'm currently travelling and working in Europe. I have a small portfolio here, with quite a few more projects in the works. Take a look and let me know what you think, any suggestion or ideas are welcomed. 😊
+My name is Rory Patrick Sheridan and I build things with data, train models, and teach
+people to do both. I'm currently studying for an MSc in Human Centred AI at TU Dublin,
+having completed a Higher Diploma in Data Analytics at Dublin Business School, and I've
+been building Django applications for small businesses since 2020.
 
-Right now I'm studying to improve my current proficiencies, learn a language for mobile development, such as React Native and utilise analytics.
+Most of what interests me sits where those meet: making machine learning systems that
+the people affected by them can still understand and question.
 
 You can find me on [LinkedIn][1] for my work history.
 
 ## Technologies & Tools 💽
 ![](https://img.shields.io/badge/Code-Python-8f7891?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-8f7891?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-JQuery-8f7891?style=flat&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-8f7891?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS3-8f7891?style=flat&logo=css3&logoColor=white)
+
+![](https://img.shields.io/badge/Data-pandas-8f7891?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Data-NumPy-8f7891?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Data-scikit--learn-8f7891?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Data-PyTorch-8f7891?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Data-Jupyter-8f7891?style=flat&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Data-Streamlit-8f7891?style=flat&logo=streamlit&logoColor=white)
+
 ![](https://img.shields.io/badge/Tools-Django-8f7891?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Tools-FastAPI-8f7891?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Flask-8f7891?style=flat&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-8f7891?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MongoDB-8f7891?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-8f7891?style=flat&logo=docker&logoColor=white)
 
 ## Projects ✅
-### Nuragic Shamanic Healing 🪘
-<a href="https://www.nuragicshamanichealing.com/" target="_blank">Nuragic Shamanic Healing<a/>
+### Machine Learning Showcase - Éire AI Analysis 📰
+<a href="https://github.com/Ri-Dearg/eire-ai-analysis"><img align="left" width="380" src="PLACEHOLDER-dashboard.png" alt="Machine Learning Showcase"></a>
+Measuring how much AI-generated content appears across four Irish news outlets, using a
+corpus I built myself. Crawling, scraping, canonicalisation and deduplication feed a
+fine-tuned transformer classifier, with statistical comparison between outlets and a
+Streamlit dashboard on top. Check out the README.md for detailed info.
 
-A live e-commerce website for a holistic business, built with Django and PostgreSQL, favourites, user accounts, automated emails, cookie selection, social network tracking, policies, and a fully functional payment system using Stripe. It features pages for information about the business and a shop in a different section. (No longer maintained by me).
-  
-### Chi Sono Io 👨🏽‍🦱
-<a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
-A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. The idea was eventually reformulated into a social integration project due to Covid restrictions.
-  
-## Portfolio Sites 🖼️ 
+### Data Pipeline Showcase - Barna Pollute Data 🌫️
+<a href="https://github.com/Ri-Dearg/barna-pollute-data"><img align="right" width="380" src="PLACEHOLDER-barna.png" alt="Data Pipeline Showcase"></a>
+
+### Live Client Site - Nuragic Shamanic Healing 🪘
+<a href="https://www.nuragicshamanichealing.com/">Nuragic Shamanic Healing</a>
+
+A live e-commerce website for a holistic business, built with Django and PostgreSQL:
+favourites, user accounts, automated emails, cookie selection, policies, and a fully
+functional payment system using Stripe. (No longer maintained by me.)
+
+## Earlier Work 🖼️
 ### Full-Stack Showcase - Neverlost Thrift 👘
-<a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"><a/>
-An e-commerce site built with Django and PostgreSQL, featuring search, tags, ajax forms, likes, infinite scroll, sorting stock by data, user accounts, automated emails, and a fully functional payment system using Stripe. This is by fair my most complex site. It was inspired by thrift stores and charity shops and the design followed suit, focusing on unique items and fun while browsing. Check out the README.md for detailed info.
-  
+<a href="https://github.com/Ri-Dearg/neverlost-thrift"><img align="right" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Full-Stack Showcase"></a>
+An e-commerce site built with Django and PostgreSQL, featuring search, tags, ajax forms,
+likes, infinite scroll, sorting stock by date, user accounts, automated emails, and a
+fully functional payment system using Stripe. This is by far my most complex site from
+that period. Inspired by thrift stores and charity shops, with the design following suit.
+
 ### Database Focused Showcase - Corona Tales 📓
-<a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"><a/>
-A text-based social network built with Flask and MongoDB, featuring a cusomtised text editor, Materialize CSS, a complex search system, tags, ajax forms, likes, infinite scroll, user accounts with complex options, and automated emails. The idea came from the wide variety of unique emotions and experiences people underwent during the pandemic. As always, take a look at the README.md for more info.
-  
+<a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"></a>
+A text-based social network built with Flask and MongoDB, featuring a customised text
+editor, Materialize CSS, a complex search system, tags, ajax forms, likes, infinite
+scroll, user accounts with complex options, and automated emails.
+
 ### Frontend Focused Showcase - Horizon Photo 📷
-<a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"><a/>
-A portfolio for a travel blogger built with Bootstrap 4 and Javascript, featuring animations, Google Maps API, REST Countries API, API failure fallback, EmailJS, responsive gallery, progressive image loading and interaction between the current page and an iframe. Imagined as a site with a minimal aesthetic to showcase a phtographer's work. Clciking on a marker swaps the iframe for new photos. Again, take a look at the README.md for more info.
+<a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" width="380" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"></a>
+A portfolio for a travel blogger built with Bootstrap 4 and Javascript, featuring
+animations, Google Maps API, REST Countries API, API failure fallback, EmailJS,
+responsive gallery, progressive image loading, and interaction between the page and an
+iframe. Clicking a marker swaps the iframe for new photos.
 
 [1]: https://www.linkedin.com/in/rp-sheridan/
 [2]: https://www.instagram.com/ri.dearg/
-
-[1.1]: https://github.com/Ri-Dearg/Ri-Dearg/raw/main/linkedin.png
-[2.1]: https://github.com/Ri-Dearg/Ri-Dearg/raw/main/instagram.svg
