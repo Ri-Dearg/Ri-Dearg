@@ -7,7 +7,7 @@ My name is Rory Patrick Sheridan and I'm a newly certified Full-Stack Software D
 
 Right now I'm studying to improve my current proficiencies, learn a language for mobile development, such as React Native and utilise analytics.
 
-You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check out my favourite hobby, photography, on [![Instagram][2.1]][2]
+You can find me on [LinkedIn][1] for my work history.
 
 ## Technologies & Tools 💽
 ![](https://img.shields.io/badge/Code-Python-8f7891?style=flat&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ You can find me on [![LinkedIn][1.1]][1] for my work history, or you can check o
 ![](https://img.shields.io/badge/Tools-MongoDB-8f7891?style=flat&logo=mongodb&logoColor=white)
 
 ## Projects ✅
-### Nuragic Shamanic Healing 👨🏽‍🦱
+### Nuragic Shamanic Healing 🪘
 <a href="https://www.nuragicshamanichealing.com/" target="_blank">Nuragic Shamanic Healing<a/>
 
 A live e-commerce website for a holistic business, built with Django and PostgreSQL, favourites, user accounts, automated emails, cookie selection, social network tracking, policies, and a fully functional payment system using Stripe. It features pages for information about the business and a shop in a different section. (No longer maintained by me).
